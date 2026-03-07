@@ -1,4 +1,4 @@
-//max from 5 inputed value
+//min from 5 inputed value
 using System;
 class program
 {
