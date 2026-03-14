@@ -1,4 +1,4 @@
-using System.Diagnostics;
+using System;
 
 Console.Write("Enter a number: ");
 int num = int.Parse(Console.ReadLine());
