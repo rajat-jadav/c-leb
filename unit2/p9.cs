@@ -24,7 +24,7 @@ class Rectangle
     public void Display()
     {
         Console.WriteLine("Length: " + length);
-        Console.WriteLine("Width: " + width);
+        Console.WriteLine("Width : " + width);
         Console.WriteLine("Area: " + FindArea());
     }
 }
